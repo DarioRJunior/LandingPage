@@ -12,7 +12,8 @@ Projeto: 🚀Concluido
 </p>
 
 ## 💻 Objetivo
-
+ 
+ Está landing page tem como objetivo mostrar meu trabalho responsivo com Landing Pages
 ---
 
 ## 🛠 Tecnologias
