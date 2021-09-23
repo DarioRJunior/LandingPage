@@ -14,7 +14,7 @@ Projeto: 🚀Concluido
 ## 💻 Objetivo
  
  Está landing page tem como objetivo mostrar meu trabalho responsivo com Landing Pages
----
+
 
 ## 🛠 Tecnologias
 
@@ -36,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Linkedin Badge](https://img.shields.io/badge/-Dario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dariocode/)](https://www.linkedin.com/in/dariocode/) 
 [![Gmail Badge](https://img.shields.io/badge/-darioarjr321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darioarjr321@gmail.com)](mailto:darioarjr321@gmail.com)
 
----
+
 
 ## 📝 Licença
 
