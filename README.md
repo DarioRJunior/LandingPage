@@ -15,5 +15,8 @@ Projeto: 🚀Concluido
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- HTML5
-- CSS3
+- <img align="center" alt="Dario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML5
+-   <img align="center" alt="Dario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS3
+
+
+
