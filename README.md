@@ -5,10 +5,10 @@
 Projeto: 🚀Concluido
 </h4>
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> •  
- <a href="#licenca">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#-objetivo">Objetivo</a> •
+ <a href="#-tecnologias">Tecnologias</a> •  
+ <a href="#-licenca">Licença</a> • 
+ <a href="#-autor">Autor</a>
 </p>
 
 ## 💻 Objetivo
