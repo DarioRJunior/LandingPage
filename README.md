@@ -13,7 +13,8 @@ Projeto: 🚀Concluido
 
 ## 💻 Objetivo
  
- Está landing page tem como objetivo mostrar meu trabalho responsivo com Landing Pages
+ Está landing page tem como objetivo mostrar meu trabalho responsivo com Landing Pages <br>
+ Site da página disponivel em: https://dariorjunior.github.io/LandingPage/
 
 
 ## 🛠 Tecnologias
